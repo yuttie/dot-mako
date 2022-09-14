@@ -1,6 +1,10 @@
-font=sans-serif 20
-padding=8,16
-height=600
-icon-path=/usr/share/icons/Papirus
+font=sans-serif 16
 background-color=#fafafa
 text-color=#222222
+width=600
+height=1200
+padding=8,16
+border-size=0
+border-radius=8
+icon-path=/usr/share/icons/Papirus:/usr/share/icons/breeze
+format=<span font="bold 20" underline="single">%s</span>\n%b
