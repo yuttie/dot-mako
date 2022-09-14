@@ -1,0 +1,6 @@
+font=sans-serif 20
+padding=8,16
+height=600
+icon-path=/usr/share/icons/Papirus
+background-color=#fafafa
+text-color=#222222
