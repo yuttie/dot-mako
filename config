@@ -7,6 +7,6 @@ padding=8,16
 border-size=0
 border-radius=8
 icon-path=/usr/share/icons/Papirus:/usr/share/icons/breeze
-format=<span font="bold 20" underline="single">%s</span>\n%b
+format=<span font="bold 20">%s</span>\n%b
 default-timeout=0
 ignore-timeout=1
